@@ -1,0 +1,40 @@
+h1{
+    color:rgb(3, 209, 99);
+    text-align: center;
+    font-size: 50px;
+}
+p{
+    color:white;
+    text-align: center;
+    font-family: Arial;
+    font-size: 25px;
+}
+body{
+   background-image: url("music1.jpg");
+   background-size: cover;
+}
+div{
+    text-align: center;
+    font-size: 30px;
+    color: green;
+    position: absolute;
+    bottom: 130px;
+    left: 660px;
+}
+button{
+    background-color: white;
+    color: black;
+}
+button:hover{
+    background-color: yellowgreen;
+    color: white;
+}
+a{
+    text-decoration: none;
+    text-decoration-color: white;
+}
+audio{
+    align-items: center;
+    align-content: center;
+    border-left: 50px;
+}
