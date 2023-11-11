@@ -1,15 +1,44 @@
 body{
     text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
 }
 div{
-    height: 100px;
-    
+    height: 235px;
     display: inline-block;
     border: 2px solid black;
 }
 #options{
     width: 800px;
     height: 200px;
-    
-    
+}
+#Hollywood{
+    width: 210px;
+    background-image : url("Ed sheeran.jpg");
+    background-size: cover;
+}
+#Bollywood{
+    width: 210px;
+    background-image : url("Arijit singh.jpg");
+    background-size: cover;
+}
+#Regional{
+    width: 210px;
+    background-image : url("Regional.jpg");
+    background-size: cover;
+}
+#Traditional{
+    width: 210px;
+    background-image : url("Traditional.jpg");
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 430px;
+}
+a:hover{
+    color: yellow;
 }
